@@ -13,7 +13,7 @@
 		<link crossorigin="anonymous" rel="stylesheet"
 			href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
 			integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
-			crossorigin="anonymous" referrerpolicy="no-referrer" />
+			referrerpolicy="no-referrer" />
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;900&display=swap" rel="stylesheet">
@@ -28,17 +28,19 @@
 
 		<!-- Nav bar -->
 		<div class="container-fluid nav-container">
-			<div class="row">
-				<div class="col">
-					<nav class="d-flex justify-content-between navigation">
-						<div class="title text-bold">Where in the world?</div>
-						<div class="theme-swicher" id="themeSwitcher">
-							<i class="fa fa-moon"></i>
-							<span class="theme-switcher-text" id="themeSwitcherText">
-								Dark mode
-							</span>
-						</div>
-					</nav>
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<nav class="d-flex justify-content-between navigation">
+							<div class="title text-bold">Where in the world?</div>
+							<div class="theme-swicher" id="themeSwitcher">
+								<i class="fa fa-moon"></i>
+								<span class="theme-switcher-text" id="themeSwitcherText">
+									Dark mode
+								</span>
+							</div>
+						</nav>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -46,23 +48,39 @@
 
 
 		<!-- Content-->
-		<div class="container">
+		<div class="section container cards-container">
 			<div class="row">
 				<div class="col">
 
 					<!-- Search & Filter -->
-					<div class="d-flex justify-content-between">
+					<div class="user-actions">
 
 						<!-- Search field -->
-						<div class="search-field-container">
+						<div class="d-flex justify-content-start search-field-container align-items-center">
 
+							<i class="fa fa-search search-icon"></i>
 
+							<form action="">
+								<input type="search" name="country" id="country" class="search-input"
+									placeholder="Search for a country...">
+							</form>
 						</div>
 						<!-- /Search field -->
 
 						<!-- Filter -->
-						<div class="filter-field-container" id="filterFieldContainer">
+						<div class="filter-field-container" id="filterFieldsContainer">
+							<form action="">
+								<select class="" name="filter" id="filterCountry">
 
+									<option value="">Filter by Region</option>
+									<option value="Africa">Africa</option>
+									<option value="America">America</option>
+									<option value="Asia">Asia</option>
+									<option value="Europe">Europe</option>
+									<option value="Oceania">Oceania</option>
+								</select>
+
+							</form>
 
 						</div>
 						<!-- /Filter -->
@@ -71,7 +89,7 @@
 					<!-- /Search & Filter -->
 
 					<!-- Page content -->
-					<div class="container">
+					<div class="section container content" id="content">
 						<div class="row">
 
 							<!-- Country cards -->

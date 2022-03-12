@@ -2,15 +2,26 @@
 	--bg: hsl(0, 0%, 98%);
 	--elements: hsl(0, 0%, 100%);
 	--text: hsl(200, 15%, 8%);
-	--input-bg: rgba(133, 133, 133, 0.308);
-	/* --input-bg: hsl(0, 0%, 52%); */
+	--shadow: rgba(133, 133, 133, 0.308);
+	--input-bg: hsl(0, 0%, 52%);
+	--clear-bg: rgb(255, 255, 255);
+	--shadow-prop: 0 0 12px 0 var(--shadow);
+	--search-color: rgba(133, 133, 133, 0.692);
 }
 
 .dark {
-	--bg: hsl(207, 26%, 17%);
+	--bg: hsl(205, 26%, 17%);
 	--elements: hsl(209, 23%, 22%);
 	-text: hsl(0, 0%, 100%);
+	--shadow: rgba(133, 133, 133, 0.308);
 	--input-bg: hsl(0, 0%, 52%);
+	--clear-bg: hsl(210, 22%, 22%);
+	--shadow-prop: 0 0 12px 0 var(--shadow);
+	--search-color: rgba(133, 133, 133, 0.692);
+}
+
+.text-color {
+	color: var(--text);
 }
 
 body {
@@ -20,6 +31,11 @@ body {
 	padding: 0;
 	box-sizing: border-box;
 	font-family: "Nunito Sans", sans-serif;
+	background-color: var(--bg);
+}
+
+.section {
+	margin-top: 1.625rem;
 }
 
 /**
@@ -29,13 +45,104 @@ body {
  */
 
 .navigation {
-	padding: 1.225rem 10px;
+	padding: 1.325rem 10px;
 }
 
 .nav-container {
-	box-shadow: 0 0 12px 0 var(--input-bg);
+	box-shadow: var(--shadow-prop);
+	background-color: var(--clear-bg);
+	padding: 0;
 }
 
 .navigation .title {
-	font-size: 1.325rem;
+	font-size: 1rem;
+}
+
+/**
+ *
+ * Cards container
+ *
+ */
+
+.cards-container {
+	background-color: inherit;
+}
+
+/**
+ *
+ * Search field
+ *
+ */
+
+.user-actions {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.search-field-container {
+	background-color: var(--clear-bg);
+	height: 50px;
+	width: 480px;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	box-shadow: var(--shadow-prop);
+	padding: 0 20px;
+}
+
+.search-icon {
+	color: var(--search-color);
+	width: 30px;
+	height: 30px;
+	display: flex;
+	align-items: center;
+}
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+.search-input {
+	border: 0;
+	outline: 0;
+	height: 100%;
+	width: 130%;
+	flex-basis: 190px;
+}
+
+.filter-field-container {
+	background-color: var(--clear-bg);
+	height: 50px;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	box-shadow: var(--shadow-prop);
+	align-items: center;
+	display: flex;
+	padding: 5px;
+}
+
+select {
+	padding: 0 20px;
+	border: 0;
+	outline: 0;
+}
+
+/**
+ *
+ * Page content
+ *
+ */
+
+.content {}
+
+@media screen and (max-width: 375px) {
+	.filter-field-container {margin-top: 2rem;
+	}
 }
