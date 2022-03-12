@@ -1,0 +1,41 @@
+:root {
+	--bg: hsl(0, 0%, 98%);
+	--elements: hsl(0, 0%, 100%);
+	--text: hsl(200, 15%, 8%);
+	--input-bg: rgba(133, 133, 133, 0.308);
+	/* --input-bg: hsl(0, 0%, 52%); */
+}
+
+.dark {
+	--bg: hsl(207, 26%, 17%);
+	--elements: hsl(209, 23%, 22%);
+	-text: hsl(0, 0%, 100%);
+	--input-bg: hsl(0, 0%, 52%);
+}
+
+body {
+	-webkit-tap-highlight-color: transparent;
+	/* Removes the blue highlight when button tapped on mobile */
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Nunito Sans", sans-serif;
+}
+
+/**
+ *
+ * Navigation
+ *
+ */
+
+.navigation {
+	padding: 1.225rem 10px;
+}
+
+.nav-container {
+	box-shadow: 0 0 12px 0 var(--input-bg);
+}
+
+.navigation .title {
+	font-size: 1.325rem;
+}
