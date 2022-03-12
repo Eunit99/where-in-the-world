@@ -13,7 +13,7 @@
 .dark {
 	--bg: hsl(205, 26%, 17%);
 	--elements: hsl(209, 23%, 22%);
-	-text: hsl(0, 0%, 100%);
+	--text: hsl(0, 0%, 100%);
 	--shadow: rgba(133, 133, 133, 0.308);
 	--input-bg: hsl(0, 0%, 52%);
 	--clear-bg: hsl(210, 22%, 22%);
@@ -27,12 +27,18 @@
 
 body {
 	-webkit-tap-highlight-color: transparent;
-	/* Removes the blue highlight when button tapped on mobile */
+	/*Removesthebluehighlightwhenbuttontappedonmobile*/
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	font-family: "Nunito Sans", sans-serif;
 	background-color: var(--bg);
+	color: var(--text);
+	transition: background-color .6s linear;
+	-webkit-transition: background-color .6s linear;
+	-moz-transition: background-color .6s linear;
+	-ms-transition: background-color .6s linear;
+	-o-transition: background-color .6s linear;
 }
 
 .section {
@@ -47,6 +53,7 @@ body {
 
 .navigation {
 	padding: 1.325rem 10px;
+	align-items: center;
 }
 
 .nav-container {
@@ -113,6 +120,7 @@ form {
 	height: 100%;
 	width: 130%;
 	flex-basis: 190px;
+	background-color: var(--clear-bg);
 }
 
 .filter-field-container {
@@ -133,6 +141,8 @@ select {
 	padding: 0 20px;
 	border: 0;
 	outline: 0;
+	background-color: var(--clear-bg);
+	color: var(--text)
 }
 
 /**
@@ -188,4 +198,15 @@ select {
 	line-height: 0.625rem;
 	padding: 1rem;
 	line-height: 0.625rem;
+}
+
+.theme-switcher {
+	cursor: pointer;
+	border: 1px solid var(--search-color);
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	padding: 8px;
 }
