@@ -47,7 +47,14 @@ toggleDarkMode();
  *
  */
 
-const fetchURL = "http://localhost:8080/columbia";
+const homepageURL = "http://127.0.0.1:5501/index.html";
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const currentCountry = urlParams.get('country');
+// console.log(currentCountry);
+
+
+const fetchURL = `http://localhost:8080/${currentCountry}`;
 
 function handleFetch(fetchURL) {
 	const fetchData = fetch(fetchURL)
