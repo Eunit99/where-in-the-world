@@ -1,0 +1,2548 @@
+{
+	"eu": [
+		[
+			{
+				"name": "Åland Islands",
+				"topLevelDomain": [
+					".ax"
+				],
+				"alpha2Code": "AX",
+				"alpha3Code": "ALA",
+				"callingCodes": [
+					"358"
+				],
+				"capital": "Mariehamn",
+				"altSpellings": [
+					"AX",
+					"Aaland",
+					"Aland",
+					"Ahvenanmaa"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 28875,
+				"latlng": [
+					60.116667,
+					19.9
+				],
+				"demonym": "Ålandish",
+				"area": 1580,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"nativeName": "Åland",
+				"numericCode": "248",
+				"flags": {
+					"svg": "https://flagcdn.com/ax.svg",
+					"png": "https://flagcdn.com/w320/ax.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "sv",
+						"iso639_2": "swe",
+						"name": "Swedish",
+						"nativeName": "svenska"
+					}
+				],
+				"translations": {
+					"br": "Ilhas de Aland",
+					"pt": "Ilhas de Aland",
+					"nl": "Ålandeilanden",
+					"hr": "Ålandski otoci",
+					"fa": "جزایر الند",
+					"de": "Åland",
+					"es": "Alandia",
+					"fr": "Åland",
+					"ja": "オーランド諸島",
+					"it": "Isole Aland",
+					"hu": "Åland-szigetek"
+				},
+				"flag": "https://flagcdn.com/ax.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"independent": false
+			},
+			{
+				"name": "Austria",
+				"topLevelDomain": [
+					".at"
+				],
+				"alpha2Code": "AT",
+				"alpha3Code": "AUT",
+				"callingCodes": [
+					"43"
+				],
+				"capital": "Vienna",
+				"altSpellings": [
+					"AT",
+					"Österreich",
+					"Osterreich",
+					"Oesterreich"
+				],
+				"subregion": "Central Europe",
+				"region": "Europe",
+				"population": 8917205,
+				"latlng": [
+					47.33333333,
+					13.33333333
+				],
+				"demonym": "Austrian",
+				"area": 83871,
+				"gini": 30.8,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"CZE",
+					"DEU",
+					"HUN",
+					"ITA",
+					"LIE",
+					"SVK",
+					"SVN",
+					"CHE"
+				],
+				"nativeName": "Österreich",
+				"numericCode": "040",
+				"flags": {
+					"svg": "https://flagcdn.com/at.svg",
+					"png": "https://flagcdn.com/w320/at.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "de",
+						"iso639_2": "deu",
+						"name": "German",
+						"nativeName": "Deutsch"
+					}
+				],
+				"translations": {
+					"br": "Áustria",
+					"pt": "Áustria",
+					"nl": "Oostenrijk",
+					"hr": "Austrija",
+					"fa": "اتریش",
+					"de": "Österreich",
+					"es": "Austria",
+					"fr": "Autriche",
+					"ja": "オーストリア",
+					"it": "Austria",
+					"hu": "Ausztria"
+				},
+				"flag": "https://flagcdn.com/at.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "AUT",
+				"independent": true
+			},
+			{
+				"name": "Belgium",
+				"topLevelDomain": [
+					".be"
+				],
+				"alpha2Code": "BE",
+				"alpha3Code": "BEL",
+				"callingCodes": [
+					"32"
+				],
+				"capital": "Brussels",
+				"altSpellings": [
+					"BE",
+					"België",
+					"Belgie",
+					"Belgien",
+					"Belgique",
+					"Kingdom of Belgium",
+					"Koninkrijk België",
+					"Royaume de Belgique",
+					"Königreich Belgien"
+				],
+				"subregion": "Western Europe",
+				"region": "Europe",
+				"population": 11555997,
+				"latlng": [
+					50.83333333,
+					4
+				],
+				"demonym": "Belgian",
+				"area": 30528,
+				"gini": 27.2,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"FRA",
+					"DEU",
+					"LUX",
+					"NLD"
+				],
+				"nativeName": "België",
+				"numericCode": "056",
+				"flags": {
+					"svg": "https://flagcdn.com/be.svg",
+					"png": "https://flagcdn.com/w320/be.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "nl",
+						"iso639_2": "nld",
+						"name": "Dutch",
+						"nativeName": "Nederlands"
+					},
+					{
+						"iso639_1": "fr",
+						"iso639_2": "fra",
+						"name": "French",
+						"nativeName": "français"
+					},
+					{
+						"iso639_1": "de",
+						"iso639_2": "deu",
+						"name": "German",
+						"nativeName": "Deutsch"
+					}
+				],
+				"translations": {
+					"br": "Bélgica",
+					"pt": "Bélgica",
+					"nl": "België",
+					"hr": "Belgija",
+					"fa": "بلژیک",
+					"de": "Belgien",
+					"es": "Bélgica",
+					"fr": "Belgique",
+					"ja": "ベルギー",
+					"it": "Belgio",
+					"hu": "Belgium"
+				},
+				"flag": "https://flagcdn.com/be.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "BEL",
+				"independent": true
+			},
+			{
+				"name": "Bulgaria",
+				"topLevelDomain": [
+					".bg"
+				],
+				"alpha2Code": "BG",
+				"alpha3Code": "BGR",
+				"callingCodes": [
+					"359"
+				],
+				"capital": "Sofia",
+				"altSpellings": [
+					"BG",
+					"Republic of Bulgaria",
+					"Република България"
+				],
+				"subregion": "Eastern Europe",
+				"region": "Europe",
+				"population": 6927288,
+				"latlng": [
+					43,
+					25
+				],
+				"demonym": "Bulgarian",
+				"area": 110879,
+				"gini": 41.3,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"borders": [
+					"GRC",
+					"MKD",
+					"ROU",
+					"SRB",
+					"TUR"
+				],
+				"nativeName": "България",
+				"numericCode": "100",
+				"flags": {
+					"svg": "https://flagcdn.com/bg.svg",
+					"png": "https://flagcdn.com/w320/bg.png"
+				},
+				"currencies": [
+					{
+						"code": "BGN",
+						"name": "Bulgarian lev",
+						"symbol": "лв"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "bg",
+						"iso639_2": "bul",
+						"name": "Bulgarian",
+						"nativeName": "български език"
+					}
+				],
+				"translations": {
+					"br": "Bulgária",
+					"pt": "Bulgária",
+					"nl": "Bulgarije",
+					"hr": "Bugarska",
+					"fa": "بلغارستان",
+					"de": "Bulgarien",
+					"es": "Bulgaria",
+					"fr": "Bulgarie",
+					"ja": "ブルガリア",
+					"it": "Bulgaria",
+					"hu": "Bulgária"
+				},
+				"flag": "https://flagcdn.com/bg.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "BUL",
+				"independent": true
+			},
+			{
+				"name": "Croatia",
+				"topLevelDomain": [
+					".hr"
+				],
+				"alpha2Code": "HR",
+				"alpha3Code": "HRV",
+				"callingCodes": [
+					"385"
+				],
+				"capital": "Zagreb",
+				"altSpellings": [
+					"HR",
+					"Hrvatska",
+					"Republic of Croatia",
+					"Republika Hrvatska"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 4047200,
+				"latlng": [
+					45.16666666,
+					15.5
+				],
+				"demonym": "Croatian",
+				"area": 56594,
+				"gini": 29.7,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"BIH",
+					"HUN",
+					"MNE",
+					"SRB",
+					"SVN"
+				],
+				"nativeName": "Hrvatska",
+				"numericCode": "191",
+				"flags": {
+					"svg": "https://flagcdn.com/hr.svg",
+					"png": "https://flagcdn.com/w320/hr.png"
+				},
+				"currencies": [
+					{
+						"code": "HRK",
+						"name": "Croatian kuna",
+						"symbol": "kn"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "hr",
+						"iso639_2": "hrv",
+						"name": "Croatian",
+						"nativeName": "hrvatski jezik"
+					}
+				],
+				"translations": {
+					"br": "Croácia",
+					"pt": "Croácia",
+					"nl": "Kroatië",
+					"hr": "Hrvatska",
+					"fa": "کرواسی",
+					"de": "Kroatien",
+					"es": "Croacia",
+					"fr": "Croatie",
+					"ja": "クロアチア",
+					"it": "Croazia",
+					"hu": "Horvátország"
+				},
+				"flag": "https://flagcdn.com/hr.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "CRO",
+				"independent": true
+			},
+			{
+				"name": "Cyprus",
+				"topLevelDomain": [
+					".cy"
+				],
+				"alpha2Code": "CY",
+				"alpha3Code": "CYP",
+				"callingCodes": [
+					"357"
+				],
+				"capital": "Nicosia",
+				"altSpellings": [
+					"CY",
+					"Kýpros",
+					"Kıbrıs",
+					"Republic of Cyprus",
+					"Κυπριακή Δημοκρατία",
+					"Kıbrıs Cumhuriyeti"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 1207361,
+				"latlng": [
+					35,
+					33
+				],
+				"demonym": "Cypriot",
+				"area": 9251,
+				"gini": 32.7,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"borders": [
+					"GBR"
+				],
+				"nativeName": "Κύπρος",
+				"numericCode": "196",
+				"flags": {
+					"svg": "https://flagcdn.com/cy.svg",
+					"png": "https://flagcdn.com/w320/cy.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "el",
+						"iso639_2": "ell",
+						"name": "Greek (modern)",
+						"nativeName": "ελληνικά"
+					},
+					{
+						"iso639_1": "tr",
+						"iso639_2": "tur",
+						"name": "Turkish",
+						"nativeName": "Türkçe"
+					},
+					{
+						"iso639_1": "hy",
+						"iso639_2": "hye",
+						"name": "Armenian",
+						"nativeName": "Հայերեն"
+					}
+				],
+				"translations": {
+					"br": "Chipre",
+					"pt": "Chipre",
+					"nl": "Cyprus",
+					"hr": "Cipar",
+					"fa": "قبرس",
+					"de": "Zypern",
+					"es": "Chipre",
+					"fr": "Chypre",
+					"ja": "キプロス",
+					"it": "Cipro",
+					"hu": "Ciprus"
+				},
+				"flag": "https://flagcdn.com/cy.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "CYP",
+				"independent": true
+			},
+			{
+				"name": "Czech Republic",
+				"topLevelDomain": [
+					".cz"
+				],
+				"alpha2Code": "CZ",
+				"alpha3Code": "CZE",
+				"callingCodes": [
+					"420"
+				],
+				"capital": "Prague",
+				"altSpellings": [
+					"CZ",
+					"Česká republika",
+					"Česko"
+				],
+				"subregion": "Central Europe",
+				"region": "Europe",
+				"population": 10698896,
+				"latlng": [
+					49.75,
+					15.5
+				],
+				"demonym": "Czech",
+				"area": 78865,
+				"gini": 25,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"nativeName": "Česká republika",
+				"numericCode": "203",
+				"flags": {
+					"svg": "https://flagcdn.com/cz.svg",
+					"png": "https://flagcdn.com/w320/cz.png"
+				},
+				"currencies": [
+					{
+						"code": "CZK",
+						"name": "Czech koruna",
+						"symbol": "Kč"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "cs",
+						"iso639_2": "ces",
+						"name": "Czech",
+						"nativeName": "čeština"
+					},
+					{
+						"iso639_1": "sk",
+						"iso639_2": "slk",
+						"name": "Slovak",
+						"nativeName": "slovenčina"
+					}
+				],
+				"translations": {
+					"br": "República Tcheca",
+					"pt": "República Checa",
+					"nl": "Tsjechië",
+					"hr": "Češka",
+					"fa": "جمهوری چک",
+					"de": "Tschechische Republik",
+					"es": "República Checa",
+					"fr": "République tchèque",
+					"ja": "チェコ",
+					"it": "Repubblica Ceca",
+					"hu": "Csehország"
+				},
+				"flag": "https://flagcdn.com/cz.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "CZE",
+				"independent": true
+			},
+			{
+				"name": "Denmark",
+				"topLevelDomain": [
+					".dk"
+				],
+				"alpha2Code": "DK",
+				"alpha3Code": "DNK",
+				"callingCodes": [
+					"45"
+				],
+				"capital": "Copenhagen",
+				"altSpellings": [
+					"DK",
+					"Danmark",
+					"Kingdom of Denmark",
+					"Kongeriget Danmark"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 5831404,
+				"latlng": [
+					56,
+					10
+				],
+				"demonym": "Danish",
+				"area": 43094,
+				"gini": 28.2,
+				"timezones": [
+					"UTC-04:00",
+					"UTC-03:00",
+					"UTC-01:00",
+					"UTC",
+					"UTC+01:00"
+				],
+				"borders": [
+					"DEU"
+				],
+				"nativeName": "Danmark",
+				"numericCode": "208",
+				"flags": {
+					"svg": "https://flagcdn.com/dk.svg",
+					"png": "https://flagcdn.com/w320/dk.png"
+				},
+				"currencies": [
+					{
+						"code": "DKK",
+						"name": "Danish krone",
+						"symbol": "kr"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "da",
+						"iso639_2": "dan",
+						"name": "Danish",
+						"nativeName": "dansk"
+					}
+				],
+				"translations": {
+					"br": "Dinamarca",
+					"pt": "Dinamarca",
+					"nl": "Denemarken",
+					"hr": "Danska",
+					"fa": "دانمارک",
+					"de": "Dänemark",
+					"es": "Dinamarca",
+					"fr": "Danemark",
+					"ja": "デンマーク",
+					"it": "Danimarca",
+					"hu": "Dánia"
+				},
+				"flag": "https://flagcdn.com/dk.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "DEN",
+				"independent": true
+			},
+			{
+				"name": "Estonia",
+				"topLevelDomain": [
+					".ee"
+				],
+				"alpha2Code": "EE",
+				"alpha3Code": "EST",
+				"callingCodes": [
+					"372"
+				],
+				"capital": "Tallinn",
+				"altSpellings": [
+					"EE",
+					"Eesti",
+					"Republic of Estonia",
+					"Eesti Vabariik"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 1331057,
+				"latlng": [
+					59,
+					26
+				],
+				"demonym": "Estonian",
+				"area": 45227,
+				"gini": 30.3,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"borders": [
+					"LVA",
+					"RUS"
+				],
+				"nativeName": "Eesti",
+				"numericCode": "233",
+				"flags": {
+					"svg": "https://flagcdn.com/ee.svg",
+					"png": "https://flagcdn.com/w320/ee.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "et",
+						"iso639_2": "est",
+						"name": "Estonian",
+						"nativeName": "eesti"
+					}
+				],
+				"translations": {
+					"br": "Estônia",
+					"pt": "Estónia",
+					"nl": "Estland",
+					"hr": "Estonija",
+					"fa": "استونی",
+					"de": "Estland",
+					"es": "Estonia",
+					"fr": "Estonie",
+					"ja": "エストニア",
+					"it": "Estonia",
+					"hu": "Észtország"
+				},
+				"flag": "https://flagcdn.com/ee.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "EST",
+				"independent": true
+			},
+			{
+				"name": "Finland",
+				"topLevelDomain": [
+					".fi"
+				],
+				"alpha2Code": "FI",
+				"alpha3Code": "FIN",
+				"callingCodes": [
+					"358"
+				],
+				"capital": "Helsinki",
+				"altSpellings": [
+					"FI",
+					"Suomi",
+					"Republic of Finland",
+					"Suomen tasavalta",
+					"Republiken Finland"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 5530719,
+				"latlng": [
+					64,
+					26
+				],
+				"demonym": "Finnish",
+				"area": 338424,
+				"gini": 27.3,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"borders": [
+					"NOR",
+					"SWE",
+					"RUS"
+				],
+				"nativeName": "Suomi",
+				"numericCode": "246",
+				"flags": {
+					"svg": "https://flagcdn.com/fi.svg",
+					"png": "https://flagcdn.com/w320/fi.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "fi",
+						"iso639_2": "fin",
+						"name": "Finnish",
+						"nativeName": "suomi"
+					},
+					{
+						"iso639_1": "sv",
+						"iso639_2": "swe",
+						"name": "Swedish",
+						"nativeName": "svenska"
+					}
+				],
+				"translations": {
+					"br": "Finlândia",
+					"pt": "Finlândia",
+					"nl": "Finland",
+					"hr": "Finska",
+					"fa": "فنلاند",
+					"de": "Finnland",
+					"es": "Finlandia",
+					"fr": "Finlande",
+					"ja": "フィンランド",
+					"it": "Finlandia",
+					"hu": "Finnország"
+				},
+				"flag": "https://flagcdn.com/fi.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "FIN",
+				"independent": true
+			},
+			{
+				"name": "France",
+				"topLevelDomain": [
+					".fr"
+				],
+				"alpha2Code": "FR",
+				"alpha3Code": "FRA",
+				"callingCodes": [
+					"33"
+				],
+				"capital": "Paris",
+				"altSpellings": [
+					"FR",
+					"French Republic",
+					"République française"
+				],
+				"subregion": "Western Europe",
+				"region": "Europe",
+				"population": 67391582,
+				"latlng": [
+					46,
+					2
+				],
+				"demonym": "French",
+				"area": 640679,
+				"gini": 32.4,
+				"timezones": [
+					"UTC-10:00",
+					"UTC-09:30",
+					"UTC-09:00",
+					"UTC-08:00",
+					"UTC-04:00",
+					"UTC-03:00",
+					"UTC+01:00",
+					"UTC+02:00",
+					"UTC+03:00",
+					"UTC+04:00",
+					"UTC+05:00",
+					"UTC+10:00",
+					"UTC+11:00",
+					"UTC+12:00"
+				],
+				"borders": [
+					"AND",
+					"BEL",
+					"DEU",
+					"ITA",
+					"LUX",
+					"MCO",
+					"ESP",
+					"CHE"
+				],
+				"nativeName": "France",
+				"numericCode": "250",
+				"flags": {
+					"svg": "https://flagcdn.com/fr.svg",
+					"png": "https://flagcdn.com/w320/fr.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "fr",
+						"iso639_2": "fra",
+						"name": "French",
+						"nativeName": "français"
+					}
+				],
+				"translations": {
+					"br": "França",
+					"pt": "França",
+					"nl": "Frankrijk",
+					"hr": "Francuska",
+					"fa": "فرانسه",
+					"de": "Frankreich",
+					"es": "Francia",
+					"fr": "France",
+					"ja": "フランス",
+					"it": "Francia",
+					"hu": "Franciaország"
+				},
+				"flag": "https://flagcdn.com/fr.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "FRA",
+				"independent": true
+			},
+			{
+				"name": "French Guiana",
+				"topLevelDomain": [
+					".gf"
+				],
+				"alpha2Code": "GF",
+				"alpha3Code": "GUF",
+				"callingCodes": [
+					"594"
+				],
+				"capital": "Cayenne",
+				"altSpellings": [
+					"GF",
+					"Guiana",
+					"Guyane"
+				],
+				"subregion": "South America",
+				"region": "Americas",
+				"population": 254541,
+				"latlng": [
+					4,
+					-53
+				],
+				"demonym": "French Guianan",
+				"timezones": [
+					"UTC-03:00"
+				],
+				"borders": [
+					"BRA",
+					"SUR"
+				],
+				"nativeName": "Guyane française",
+				"numericCode": "254",
+				"flags": {
+					"svg": "https://flagcdn.com/gf.svg",
+					"png": "https://flagcdn.com/w320/gf.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "fr",
+						"iso639_2": "fra",
+						"name": "French",
+						"nativeName": "français"
+					}
+				],
+				"translations": {
+					"br": "Guiana Francesa",
+					"pt": "Guiana Francesa",
+					"nl": "Frans-Guyana",
+					"hr": "Francuska Gvajana",
+					"fa": "گویان فرانسه",
+					"de": "Französisch Guyana",
+					"es": "Guayana Francesa",
+					"fr": "Guayane",
+					"ja": "フランス領ギアナ",
+					"it": "Guyana francese",
+					"hu": "Francia Guyana"
+				},
+				"flag": "https://flagcdn.com/gf.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "USAN",
+						"name": "Union of South American Nations",
+						"otherAcronyms": [
+							"UNASUR",
+							"UNASUL",
+							"UZAN"
+						],
+						"otherNames": [
+							"Unión de Naciones Suramericanas",
+							"União de Nações Sul-Americanas",
+							"Unie van Zuid-Amerikaanse Naties",
+							"South American Union"
+						]
+					},
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"independent": false
+			},
+			{
+				"name": "Germany",
+				"topLevelDomain": [
+					".de"
+				],
+				"alpha2Code": "DE",
+				"alpha3Code": "DEU",
+				"callingCodes": [
+					"49"
+				],
+				"capital": "Berlin",
+				"altSpellings": [
+					"DE",
+					"Federal Republic of Germany",
+					"Bundesrepublik Deutschland"
+				],
+				"subregion": "Central Europe",
+				"region": "Europe",
+				"population": 83240525,
+				"latlng": [
+					51,
+					9
+				],
+				"demonym": "German",
+				"area": 357114,
+				"gini": 31.9,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"AUT",
+					"BEL",
+					"CZE",
+					"DNK",
+					"FRA",
+					"LUX",
+					"NLD",
+					"POL",
+					"CHE"
+				],
+				"nativeName": "Deutschland",
+				"numericCode": "276",
+				"flags": {
+					"svg": "https://flagcdn.com/de.svg",
+					"png": "https://flagcdn.com/w320/de.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "de",
+						"iso639_2": "deu",
+						"name": "German",
+						"nativeName": "Deutsch"
+					}
+				],
+				"translations": {
+					"br": "Alemanha",
+					"pt": "Alemanha",
+					"nl": "Duitsland",
+					"hr": "Njemačka",
+					"fa": "آلمان",
+					"de": "Deutschland",
+					"es": "Alemania",
+					"fr": "Allemagne",
+					"ja": "ドイツ",
+					"it": "Germania",
+					"hu": "Grúzia"
+				},
+				"flag": "https://flagcdn.com/de.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "GER",
+				"independent": true
+			},
+			{
+				"name": "Gibraltar",
+				"topLevelDomain": [
+					".gi"
+				],
+				"alpha2Code": "GI",
+				"alpha3Code": "GIB",
+				"callingCodes": [
+					"350"
+				],
+				"capital": "Gibraltar",
+				"altSpellings": [
+					"GI"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 33691,
+				"latlng": [
+					36.13333333,
+					-5.35
+				],
+				"demonym": "Gibraltar",
+				"area": 6,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"ESP"
+				],
+				"nativeName": "Gibraltar",
+				"numericCode": "292",
+				"flags": {
+					"svg": "https://flagcdn.com/gi.svg",
+					"png": "https://flagcdn.com/w320/gi.png"
+				},
+				"currencies": [
+					{
+						"code": "GIP",
+						"name": "Gibraltar pound",
+						"symbol": "£"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "en",
+						"iso639_2": "eng",
+						"name": "English",
+						"nativeName": "English"
+					}
+				],
+				"translations": {
+					"br": "Gibraltar",
+					"pt": "Gibraltar",
+					"nl": "Gibraltar",
+					"hr": "Gibraltar",
+					"fa": "جبل‌طارق",
+					"de": "Gibraltar",
+					"es": "Gibraltar",
+					"fr": "Gibraltar",
+					"ja": "ジブラルタル",
+					"it": "Gibilterra",
+					"hu": "Gibraltár"
+				},
+				"flag": "https://flagcdn.com/gi.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"independent": false
+			},
+			{
+				"name": "Greece",
+				"topLevelDomain": [
+					".gr"
+				],
+				"alpha2Code": "GR",
+				"alpha3Code": "GRC",
+				"callingCodes": [
+					"30"
+				],
+				"capital": "Athens",
+				"altSpellings": [
+					"GR",
+					"Elláda",
+					"Hellenic Republic",
+					"Ελληνική Δημοκρατία"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 10715549,
+				"latlng": [
+					39,
+					22
+				],
+				"demonym": "Greek",
+				"area": 131990,
+				"gini": 32.9,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"borders": [
+					"ALB",
+					"BGR",
+					"TUR",
+					"MKD"
+				],
+				"nativeName": "Ελλάδα",
+				"numericCode": "300",
+				"flags": {
+					"svg": "https://flagcdn.com/gr.svg",
+					"png": "https://flagcdn.com/w320/gr.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "el",
+						"iso639_2": "ell",
+						"name": "Greek (modern)",
+						"nativeName": "ελληνικά"
+					}
+				],
+				"translations": {
+					"br": "Grécia",
+					"pt": "Grécia",
+					"nl": "Griekenland",
+					"hr": "Grčka",
+					"fa": "یونان",
+					"de": "Griechenland",
+					"es": "Grecia",
+					"fr": "Grèce",
+					"ja": "ギリシャ",
+					"it": "Grecia",
+					"hu": "Görögország"
+				},
+				"flag": "https://flagcdn.com/gr.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "GRE",
+				"independent": true
+			},
+			{
+				"name": "Hungary",
+				"topLevelDomain": [
+					".hu"
+				],
+				"alpha2Code": "HU",
+				"alpha3Code": "HUN",
+				"callingCodes": [
+					"36"
+				],
+				"capital": "Budapest",
+				"altSpellings": [
+					"HU"
+				],
+				"subregion": "Central Europe",
+				"region": "Europe",
+				"population": 9749763,
+				"latlng": [
+					47,
+					20
+				],
+				"demonym": "Hungarian",
+				"area": 93028,
+				"gini": 29.6,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"AUT",
+					"HRV",
+					"ROU",
+					"SRB",
+					"SVK",
+					"SVN",
+					"UKR"
+				],
+				"nativeName": "Magyarország",
+				"numericCode": "348",
+				"flags": {
+					"svg": "https://flagcdn.com/hu.svg",
+					"png": "https://flagcdn.com/w320/hu.png"
+				},
+				"currencies": [
+					{
+						"code": "HUF",
+						"name": "Hungarian forint",
+						"symbol": "Ft"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "hu",
+						"iso639_2": "hun",
+						"name": "Hungarian",
+						"nativeName": "magyar"
+					}
+				],
+				"translations": {
+					"br": "Hungria",
+					"pt": "Hungria",
+					"nl": "Hongarije",
+					"hr": "Mađarska",
+					"fa": "مجارستان",
+					"de": "Ungarn",
+					"es": "Hungría",
+					"fr": "Hongrie",
+					"ja": "ハンガリー",
+					"it": "Ungheria",
+					"hu": "Magyarország"
+				},
+				"flag": "https://flagcdn.com/hu.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "HUN",
+				"independent": true
+			},
+			{
+				"name": "Ireland",
+				"topLevelDomain": [
+					".ie"
+				],
+				"alpha2Code": "IE",
+				"alpha3Code": "IRL",
+				"callingCodes": [
+					"353"
+				],
+				"capital": "Dublin",
+				"altSpellings": [
+					"IE",
+					"Éire",
+					"Republic of Ireland",
+					"Poblacht na hÉireann"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 4994724,
+				"latlng": [
+					53,
+					-8
+				],
+				"demonym": "Irish",
+				"area": 70273,
+				"gini": 31.4,
+				"timezones": [
+					"UTC"
+				],
+				"borders": [
+					"GBR"
+				],
+				"nativeName": "Éire",
+				"numericCode": "372",
+				"flags": {
+					"svg": "https://flagcdn.com/ie.svg",
+					"png": "https://flagcdn.com/w320/ie.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "ga",
+						"iso639_2": "gle",
+						"name": "Irish",
+						"nativeName": "Gaeilge"
+					},
+					{
+						"iso639_1": "en",
+						"iso639_2": "eng",
+						"name": "English",
+						"nativeName": "English"
+					}
+				],
+				"translations": {
+					"br": "Irlanda",
+					"pt": "Irlanda",
+					"nl": "Ierland",
+					"hr": "Irska",
+					"fa": "ایرلند",
+					"de": "Irland",
+					"es": "Irlanda",
+					"fr": "Irlande",
+					"ja": "アイルランド",
+					"it": "Irlanda",
+					"hu": "Írország"
+				},
+				"flag": "https://flagcdn.com/ie.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "IRL",
+				"independent": true
+			},
+			{
+				"name": "Isle of Man",
+				"topLevelDomain": [
+					".im"
+				],
+				"alpha2Code": "IM",
+				"alpha3Code": "IMN",
+				"callingCodes": [
+					"44"
+				],
+				"capital": "Douglas",
+				"altSpellings": [
+					"IM",
+					"Ellan Vannin",
+					"Mann",
+					"Mannin"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 85032,
+				"latlng": [
+					54.25,
+					-4.5
+				],
+				"demonym": "Manx",
+				"area": 572,
+				"timezones": [
+					"UTC+00:00"
+				],
+				"nativeName": "Isle of Man",
+				"numericCode": "833",
+				"flags": {
+					"svg": "https://flagcdn.com/im.svg",
+					"png": "https://flagcdn.com/w320/im.png"
+				},
+				"currencies": [
+					{
+						"code": "GBP",
+						"name": "British pound",
+						"symbol": "£"
+					},
+					{
+						"code": "IMP[G]",
+						"name": "Manx pound",
+						"symbol": "£"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "en",
+						"iso639_2": "eng",
+						"name": "English",
+						"nativeName": "English"
+					},
+					{
+						"iso639_1": "gv",
+						"iso639_2": "glv",
+						"name": "Manx",
+						"nativeName": "Gaelg"
+					}
+				],
+				"translations": {
+					"br": "Ilha de Man",
+					"pt": "Ilha de Man",
+					"nl": "Isle of Man",
+					"hr": "Otok Man",
+					"fa": "جزیره من",
+					"de": "Insel Man",
+					"es": "Isla de Man",
+					"fr": "Île de Man",
+					"ja": "マン島",
+					"it": "Isola di Man",
+					"hu": "Man"
+				},
+				"flag": "https://flagcdn.com/im.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"independent": false
+			},
+			{
+				"name": "Italy",
+				"topLevelDomain": [
+					".it"
+				],
+				"alpha2Code": "IT",
+				"alpha3Code": "ITA",
+				"callingCodes": [
+					"39"
+				],
+				"capital": "Rome",
+				"altSpellings": [
+					"IT",
+					"Italian Republic",
+					"Repubblica italiana"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 59554023,
+				"latlng": [
+					42.83333333,
+					12.83333333
+				],
+				"demonym": "Italian",
+				"area": 301336,
+				"gini": 35.9,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"AUT",
+					"FRA",
+					"SMR",
+					"SVN",
+					"CHE",
+					"VAT"
+				],
+				"nativeName": "Italia",
+				"numericCode": "380",
+				"flags": {
+					"svg": "https://flagcdn.com/it.svg",
+					"png": "https://flagcdn.com/w320/it.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "it",
+						"iso639_2": "ita",
+						"name": "Italian",
+						"nativeName": "Italiano"
+					}
+				],
+				"translations": {
+					"br": "Itália",
+					"pt": "Itália",
+					"nl": "Italië",
+					"hr": "Italija",
+					"fa": "ایتالیا",
+					"de": "Italien",
+					"es": "Italia",
+					"fr": "Italie",
+					"ja": "イタリア",
+					"it": "Italia",
+					"hu": "Olaszország"
+				},
+				"flag": "https://flagcdn.com/it.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "ITA",
+				"independent": true
+			},
+			{
+				"name": "Latvia",
+				"topLevelDomain": [
+					".lv"
+				],
+				"alpha2Code": "LV",
+				"alpha3Code": "LVA",
+				"callingCodes": [
+					"371"
+				],
+				"capital": "Riga",
+				"altSpellings": [
+					"LV",
+					"Republic of Latvia",
+					"Latvijas Republika"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 1901548,
+				"latlng": [
+					57,
+					25
+				],
+				"demonym": "Latvian",
+				"area": 64559,
+				"gini": 35.1,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"borders": [
+					"BLR",
+					"EST",
+					"LTU",
+					"RUS"
+				],
+				"nativeName": "Latvija",
+				"numericCode": "428",
+				"flags": {
+					"svg": "https://flagcdn.com/lv.svg",
+					"png": "https://flagcdn.com/w320/lv.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "lv",
+						"iso639_2": "lav",
+						"name": "Latvian",
+						"nativeName": "latviešu valoda"
+					}
+				],
+				"translations": {
+					"br": "Letônia",
+					"pt": "Letónia",
+					"nl": "Letland",
+					"hr": "Latvija",
+					"fa": "لتونی",
+					"de": "Lettland",
+					"es": "Letonia",
+					"fr": "Lettonie",
+					"ja": "ラトビア",
+					"it": "Lettonia",
+					"hu": "Lettország"
+				},
+				"flag": "https://flagcdn.com/lv.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "LAT",
+				"independent": true
+			},
+			{
+				"name": "Lithuania",
+				"topLevelDomain": [
+					".lt"
+				],
+				"alpha2Code": "LT",
+				"alpha3Code": "LTU",
+				"callingCodes": [
+					"370"
+				],
+				"capital": "Vilnius",
+				"altSpellings": [
+					"LT",
+					"Republic of Lithuania",
+					"Lietuvos Respublika"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 2794700,
+				"latlng": [
+					56,
+					24
+				],
+				"demonym": "Lithuanian",
+				"area": 65300,
+				"gini": 35.7,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"borders": [
+					"BLR",
+					"LVA",
+					"POL",
+					"RUS"
+				],
+				"nativeName": "Lietuva",
+				"numericCode": "440",
+				"flags": {
+					"svg": "https://flagcdn.com/lt.svg",
+					"png": "https://flagcdn.com/w320/lt.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "lt",
+						"iso639_2": "lit",
+						"name": "Lithuanian",
+						"nativeName": "lietuvių kalba"
+					}
+				],
+				"translations": {
+					"br": "Lituânia",
+					"pt": "Lituânia",
+					"nl": "Litouwen",
+					"hr": "Litva",
+					"fa": "لیتوانی",
+					"de": "Litauen",
+					"es": "Lituania",
+					"fr": "Lituanie",
+					"ja": "リトアニア",
+					"it": "Lituania",
+					"hu": "Litvánia"
+				},
+				"flag": "https://flagcdn.com/lt.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "LTU",
+				"independent": true
+			},
+			{
+				"name": "Luxembourg",
+				"topLevelDomain": [
+					".lu"
+				],
+				"alpha2Code": "LU",
+				"alpha3Code": "LUX",
+				"callingCodes": [
+					"352"
+				],
+				"capital": "Luxembourg",
+				"altSpellings": [
+					"LU",
+					"Grand Duchy of Luxembourg",
+					"Grand-Duché de Luxembourg",
+					"Großherzogtum Luxemburg",
+					"Groussherzogtum Lëtzebuerg"
+				],
+				"subregion": "Western Europe",
+				"region": "Europe",
+				"population": 632275,
+				"latlng": [
+					49.75,
+					6.16666666
+				],
+				"demonym": "Luxembourger",
+				"area": 2586,
+				"gini": 35.4,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"BEL",
+					"FRA",
+					"DEU"
+				],
+				"nativeName": "Lëtzebuerg",
+				"numericCode": "442",
+				"flags": {
+					"svg": "https://flagcdn.com/lu.svg",
+					"png": "https://flagcdn.com/w320/lu.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "fr",
+						"iso639_2": "fra",
+						"name": "French",
+						"nativeName": "français"
+					},
+					{
+						"iso639_1": "de",
+						"iso639_2": "deu",
+						"name": "German",
+						"nativeName": "Deutsch"
+					},
+					{
+						"iso639_1": "lb",
+						"iso639_2": "ltz",
+						"name": "Luxembourgish",
+						"nativeName": "Lëtzebuergesch"
+					}
+				],
+				"translations": {
+					"br": "Luxemburgo",
+					"pt": "Luxemburgo",
+					"nl": "Luxemburg",
+					"hr": "Luksemburg",
+					"fa": "لوکزامبورگ",
+					"de": "Luxemburg",
+					"es": "Luxemburgo",
+					"fr": "Luxembourg",
+					"ja": "ルクセンブルク",
+					"it": "Lussemburgo",
+					"hu": "Luxemburg"
+				},
+				"flag": "https://flagcdn.com/lu.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "LUX",
+				"independent": true
+			},
+			{
+				"name": "Malta",
+				"topLevelDomain": [
+					".mt"
+				],
+				"alpha2Code": "MT",
+				"alpha3Code": "MLT",
+				"callingCodes": [
+					"356"
+				],
+				"capital": "Valletta",
+				"altSpellings": [
+					"MT",
+					"Republic of Malta",
+					"Repubblika ta' Malta"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 525285,
+				"latlng": [
+					35.83333333,
+					14.58333333
+				],
+				"demonym": "Maltese",
+				"area": 316,
+				"gini": 28.7,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"nativeName": "Malta",
+				"numericCode": "470",
+				"flags": {
+					"svg": "https://flagcdn.com/mt.svg",
+					"png": "https://flagcdn.com/w320/mt.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "mt",
+						"iso639_2": "mlt",
+						"name": "Maltese",
+						"nativeName": "Malti"
+					},
+					{
+						"iso639_1": "en",
+						"iso639_2": "eng",
+						"name": "English",
+						"nativeName": "English"
+					}
+				],
+				"translations": {
+					"br": "Malta",
+					"pt": "Malta",
+					"nl": "Malta",
+					"hr": "Malta",
+					"fa": "مالت",
+					"de": "Malta",
+					"es": "Malta",
+					"fr": "Malte",
+					"ja": "マルタ",
+					"it": "Malta",
+					"hu": "Málta"
+				},
+				"flag": "https://flagcdn.com/mt.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "MLT",
+				"independent": true
+			},
+			{
+				"name": "Netherlands",
+				"topLevelDomain": [
+					".nl"
+				],
+				"alpha2Code": "NL",
+				"alpha3Code": "NLD",
+				"callingCodes": [
+					"31"
+				],
+				"capital": "Amsterdam",
+				"altSpellings": [
+					"NL",
+					"Holland",
+					"Nederland"
+				],
+				"subregion": "Western Europe",
+				"region": "Europe",
+				"population": 17441139,
+				"latlng": [
+					52.5,
+					5.75
+				],
+				"demonym": "Dutch",
+				"area": 41850,
+				"gini": 28.1,
+				"timezones": [
+					"UTC-04:00",
+					"UTC+01:00"
+				],
+				"borders": [
+					"BEL",
+					"DEU"
+				],
+				"nativeName": "Nederland",
+				"numericCode": "528",
+				"flags": {
+					"svg": "https://flagcdn.com/nl.svg",
+					"png": "https://flagcdn.com/w320/nl.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "nl",
+						"iso639_2": "nld",
+						"name": "Dutch",
+						"nativeName": "Nederlands"
+					}
+				],
+				"translations": {
+					"br": "Holanda",
+					"pt": "Países Baixos",
+					"nl": "Nederland",
+					"hr": "Nizozemska",
+					"fa": "پادشاهی هلند",
+					"de": "Niederlande",
+					"es": "Países Bajos",
+					"fr": "Pays-Bas",
+					"ja": "オランダ",
+					"it": "Paesi Bassi",
+					"hu": "Hollandia"
+				},
+				"flag": "https://flagcdn.com/nl.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "NED",
+				"independent": true
+			},
+			{
+				"name": "Poland",
+				"topLevelDomain": [
+					".pl"
+				],
+				"alpha2Code": "PL",
+				"alpha3Code": "POL",
+				"callingCodes": [
+					"48"
+				],
+				"capital": "Warsaw",
+				"altSpellings": [
+					"PL",
+					"Republic of Poland",
+					"Rzeczpospolita Polska"
+				],
+				"subregion": "Central Europe",
+				"region": "Europe",
+				"population": 37950802,
+				"latlng": [
+					52,
+					20
+				],
+				"demonym": "Polish",
+				"area": 312679,
+				"gini": 30.2,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"BLR",
+					"CZE",
+					"DEU",
+					"LTU",
+					"RUS",
+					"SVK",
+					"UKR"
+				],
+				"nativeName": "Polska",
+				"numericCode": "616",
+				"flags": {
+					"svg": "https://flagcdn.com/pl.svg",
+					"png": "https://flagcdn.com/w320/pl.png"
+				},
+				"currencies": [
+					{
+						"code": "PLN",
+						"name": "Polish złoty",
+						"symbol": "zł"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "pl",
+						"iso639_2": "pol",
+						"name": "Polish",
+						"nativeName": "język polski"
+					}
+				],
+				"translations": {
+					"br": "Polônia",
+					"pt": "Polónia",
+					"nl": "Polen",
+					"hr": "Poljska",
+					"fa": "لهستان",
+					"de": "Polen",
+					"es": "Polonia",
+					"fr": "Pologne",
+					"ja": "ポーランド",
+					"it": "Polonia",
+					"hu": "Lengyelország"
+				},
+				"flag": "https://flagcdn.com/pl.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "POL",
+				"independent": true
+			},
+			{
+				"name": "Portugal",
+				"topLevelDomain": [
+					".pt"
+				],
+				"alpha2Code": "PT",
+				"alpha3Code": "PRT",
+				"callingCodes": [
+					"351"
+				],
+				"capital": "Lisbon",
+				"altSpellings": [
+					"PT",
+					"Portuguesa",
+					"Portuguese Republic",
+					"República Portuguesa"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 10305564,
+				"latlng": [
+					39.5,
+					-8
+				],
+				"demonym": "Portuguese",
+				"area": 92090,
+				"gini": 33.5,
+				"timezones": [
+					"UTC-01:00",
+					"UTC"
+				],
+				"borders": [
+					"ESP"
+				],
+				"nativeName": "Portugal",
+				"numericCode": "620",
+				"flags": {
+					"svg": "https://flagcdn.com/pt.svg",
+					"png": "https://flagcdn.com/w320/pt.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "pt",
+						"iso639_2": "por",
+						"name": "Portuguese",
+						"nativeName": "Português"
+					}
+				],
+				"translations": {
+					"br": "Portugal",
+					"pt": "Portugal",
+					"nl": "Portugal",
+					"hr": "Portugal",
+					"fa": "پرتغال",
+					"de": "Portugal",
+					"es": "Portugal",
+					"fr": "Portugal",
+					"ja": "ポルトガル",
+					"it": "Portogallo",
+					"hu": "Portugália"
+				},
+				"flag": "https://flagcdn.com/pt.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "POR",
+				"independent": true
+			},
+			{
+				"name": "Romania",
+				"topLevelDomain": [
+					".ro"
+				],
+				"alpha2Code": "RO",
+				"alpha3Code": "ROU",
+				"callingCodes": [
+					"40"
+				],
+				"capital": "Bucharest",
+				"altSpellings": [
+					"RO",
+					"Rumania",
+					"Roumania",
+					"România"
+				],
+				"subregion": "Eastern Europe",
+				"region": "Europe",
+				"population": 19286123,
+				"latlng": [
+					46,
+					25
+				],
+				"demonym": "Romanian",
+				"area": 238391,
+				"gini": 35.8,
+				"timezones": [
+					"UTC+02:00"
+				],
+				"borders": [
+					"BGR",
+					"HUN",
+					"MDA",
+					"SRB",
+					"UKR"
+				],
+				"nativeName": "România",
+				"numericCode": "642",
+				"flags": {
+					"svg": "https://flagcdn.com/ro.svg",
+					"png": "https://flagcdn.com/w320/ro.png"
+				},
+				"currencies": [
+					{
+						"code": "RON",
+						"name": "Romanian leu",
+						"symbol": "lei"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "ro",
+						"iso639_2": "ron",
+						"name": "Romanian",
+						"nativeName": "Română"
+					}
+				],
+				"translations": {
+					"br": "Romênia",
+					"pt": "Roménia",
+					"nl": "Roemenië",
+					"hr": "Rumunjska",
+					"fa": "رومانی",
+					"de": "Rumänien",
+					"es": "Rumania",
+					"fr": "Roumanie",
+					"ja": "ルーマニア",
+					"it": "Romania",
+					"hu": "Románia"
+				},
+				"flag": "https://flagcdn.com/ro.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "ROU",
+				"independent": true
+			},
+			{
+				"name": "Slovakia",
+				"topLevelDomain": [
+					".sk"
+				],
+				"alpha2Code": "SK",
+				"alpha3Code": "SVK",
+				"callingCodes": [
+					"421"
+				],
+				"capital": "Bratislava",
+				"altSpellings": [
+					"SK",
+					"Slovak Republic",
+					"Slovenská republika"
+				],
+				"subregion": "Central Europe",
+				"region": "Europe",
+				"population": 5458827,
+				"latlng": [
+					48.66666666,
+					19.5
+				],
+				"demonym": "Slovak",
+				"area": 49037,
+				"gini": 25,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"AUT",
+					"CZE",
+					"HUN",
+					"POL",
+					"UKR"
+				],
+				"nativeName": "Slovensko",
+				"numericCode": "703",
+				"flags": {
+					"svg": "https://flagcdn.com/sk.svg",
+					"png": "https://flagcdn.com/w320/sk.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "sk",
+						"iso639_2": "slk",
+						"name": "Slovak",
+						"nativeName": "slovenčina"
+					}
+				],
+				"translations": {
+					"br": "Eslováquia",
+					"pt": "Eslováquia",
+					"nl": "Slowakije",
+					"hr": "Slovačka",
+					"fa": "اسلواکی",
+					"de": "Slowakei",
+					"es": "República Eslovaca",
+					"fr": "Slovaquie",
+					"ja": "スロバキア",
+					"it": "Slovacchia",
+					"hu": "Szlovákia"
+				},
+				"flag": "https://flagcdn.com/sk.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "SVK",
+				"independent": true
+			},
+			{
+				"name": "Slovenia",
+				"topLevelDomain": [
+					".si"
+				],
+				"alpha2Code": "SI",
+				"alpha3Code": "SVN",
+				"callingCodes": [
+					"386"
+				],
+				"capital": "Ljubljana",
+				"altSpellings": [
+					"SI",
+					"Republic of Slovenia",
+					"Republika Slovenija"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 2100126,
+				"latlng": [
+					46.11666666,
+					14.81666666
+				],
+				"demonym": "Slovene",
+				"area": 20273,
+				"gini": 24.6,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"AUT",
+					"HRV",
+					"ITA",
+					"HUN"
+				],
+				"nativeName": "Slovenija",
+				"numericCode": "705",
+				"flags": {
+					"svg": "https://flagcdn.com/si.svg",
+					"png": "https://flagcdn.com/w320/si.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "sl",
+						"iso639_2": "slv",
+						"name": "Slovene",
+						"nativeName": "slovenski jezik"
+					}
+				],
+				"translations": {
+					"br": "Eslovênia",
+					"pt": "Eslovénia",
+					"nl": "Slovenië",
+					"hr": "Slovenija",
+					"fa": "اسلوونی",
+					"de": "Slowenien",
+					"es": "Eslovenia",
+					"fr": "Slovénie",
+					"ja": "スロベニア",
+					"it": "Slovenia",
+					"hu": "Szlovénia"
+				},
+				"flag": "https://flagcdn.com/si.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "SLO",
+				"independent": true
+			},
+			{
+				"name": "Spain",
+				"topLevelDomain": [
+					".es"
+				],
+				"alpha2Code": "ES",
+				"alpha3Code": "ESP",
+				"callingCodes": [
+					"34"
+				],
+				"capital": "Madrid",
+				"altSpellings": [
+					"ES",
+					"Kingdom of Spain",
+					"Reino de España"
+				],
+				"subregion": "Southern Europe",
+				"region": "Europe",
+				"population": 47351567,
+				"latlng": [
+					40,
+					-4
+				],
+				"demonym": "Spanish",
+				"area": 505992,
+				"gini": 34.7,
+				"timezones": [
+					"UTC",
+					"UTC+01:00"
+				],
+				"borders": [
+					"AND",
+					"FRA",
+					"GIB",
+					"PRT",
+					"MAR"
+				],
+				"nativeName": "España",
+				"numericCode": "724",
+				"flags": {
+					"svg": "https://flagcdn.com/es.svg",
+					"png": "https://flagcdn.com/w320/es.png"
+				},
+				"currencies": [
+					{
+						"code": "EUR",
+						"name": "Euro",
+						"symbol": "€"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "es",
+						"iso639_2": "spa",
+						"name": "Spanish",
+						"nativeName": "Español"
+					}
+				],
+				"translations": {
+					"br": "Espanha",
+					"pt": "Espanha",
+					"nl": "Spanje",
+					"hr": "Španjolska",
+					"fa": "اسپانیا",
+					"de": "Spanien",
+					"es": "España",
+					"fr": "Espagne",
+					"ja": "スペイン",
+					"it": "Spagna",
+					"hu": "Spanyolország"
+				},
+				"flag": "https://flagcdn.com/es.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "ESP",
+				"independent": true
+			},
+			{
+				"name": "Sweden",
+				"topLevelDomain": [
+					".se"
+				],
+				"alpha2Code": "SE",
+				"alpha3Code": "SWE",
+				"callingCodes": [
+					"46"
+				],
+				"capital": "Stockholm",
+				"altSpellings": [
+					"SE",
+					"Kingdom of Sweden",
+					"Konungariket Sverige"
+				],
+				"subregion": "Northern Europe",
+				"region": "Europe",
+				"population": 10353442,
+				"latlng": [
+					62,
+					15
+				],
+				"demonym": "Swedish",
+				"area": 450295,
+				"gini": 30,
+				"timezones": [
+					"UTC+01:00"
+				],
+				"borders": [
+					"FIN",
+					"NOR"
+				],
+				"nativeName": "Sverige",
+				"numericCode": "752",
+				"flags": {
+					"svg": "https://flagcdn.com/se.svg",
+					"png": "https://flagcdn.com/w320/se.png"
+				},
+				"currencies": [
+					{
+						"code": "SEK",
+						"name": "Swedish krona",
+						"symbol": "kr"
+					}
+				],
+				"languages": [
+					{
+						"iso639_1": "sv",
+						"iso639_2": "swe",
+						"name": "Swedish",
+						"nativeName": "svenska"
+					}
+				],
+				"translations": {
+					"br": "Suécia",
+					"pt": "Suécia",
+					"nl": "Zweden",
+					"hr": "Švedska",
+					"fa": "سوئد",
+					"de": "Schweden",
+					"es": "Suecia",
+					"fr": "Suède",
+					"ja": "スウェーデン",
+					"it": "Svezia",
+					"hu": "Svédország"
+				},
+				"flag": "https://flagcdn.com/se.svg",
+				"regionalBlocs": [
+					{
+						"acronym": "EU",
+						"name": "European Union"
+					}
+				],
+				"cioc": "SWE",
+				"independent": true
+			}
+		]
+	]
+}
