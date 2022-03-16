@@ -47,14 +47,22 @@ toggleDarkMode();
  *
  */
 
-const homepageURL = "http://127.0.0.1:5501/index.html";
+const pageURL = window.location.origin;
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const currentCountry = urlParams.get('country');
-// console.log(currentCountry);
 
 
-const fetchURL = `http://localhost:8080/${currentCountry}`;
+// Dynamically assign the fetchURL depending on the page
+let fetchURL;
+
+if (urlParams.has('country')) {
+	fetchURL = `https://restcountries.com/v2/alpha/${currentCountry}`;
+} else {
+
+	// Default to Nigeria
+	fetchURL = `https://restcountries.com/v2/alpha/nga`;
+}
 
 function handleFetch(fetchURL) {
 	const fetchData = fetch(fetchURL)
@@ -75,7 +83,7 @@ function handleFetch(fetchURL) {
 handleFetch(fetchURL);
 
 function destructureSingleCountryData(data) {
-	const { name: countryName, nativeName, alpha3Code, population, capital, topLevelDomain, currencies: { code, name: currencyName, symbol }, languages: { nativeName: languageNativeName }, region, subregion, flags: {svg: flagSVG} } = data[0];
+	const { name: countryName, nativeName, alpha3Code, population, capital, topLevelDomain, currencies: { code, name: currencyName, symbol }, languages: { nativeName: languageNativeName }, region, subregion, flags: { svg: flagSVG } } = data;
 
 	showSingleCountry(countryName, flagSVG, nativeName, alpha3Code, population, capital, topLevelDomain, currencyName, region, subregion, languageNativeName);
 
