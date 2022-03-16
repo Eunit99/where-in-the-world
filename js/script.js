@@ -18,10 +18,8 @@ const toggleDarkMode = () => {
 
 		if (localStorageTheme === "dark") {
 			themeSwitcherText = "Dark mode";
-			console.log(themeSwitcherText);
 		} else {
 			themeSwitcherText = "Light mode";
-			console.log(themeSwitcherText);
 		}
 
 
@@ -77,21 +75,22 @@ function handleFetch(fetchURL) {
 			return data;
 		})
 		.catch((err) => {
-			console.log(err);
+			handleErr(err);
+			console.error(err);
 		});
 }
 handleFetch(fetchURL);
 
 function destructureSingleCountryData(data) {
-	const { name: countryName, nativeName, alpha3Code, population, capital, topLevelDomain, currencies: { code, name: currencyName, symbol }, languages: { nativeName: languageNativeName }, region, subregion, flags: { svg: flagSVG } } = data;
+	const { name: countryName, nativeName, alpha3Code, population, capital, topLevelDomain, currencies: { code, name: currencyName, symbol }, languages: { nativeName: languageNativeName }, region, subregion, flags: { svg: flagSVG }, borders } = data;
 
-	showSingleCountry(countryName, flagSVG, nativeName, alpha3Code, population, capital, topLevelDomain, currencyName, region, subregion, languageNativeName);
+	showSingleCountry(countryName, flagSVG, nativeName, alpha3Code, population, capital, topLevelDomain, currencyName, region, subregion, languageNativeName, borders);
 
-	console.log(languageNativeName);
+	borderCountries(borders, countryName);
 }
 
 
-function showSingleCountry(countryName, flagSVG, nativeName, alpha3Code, population, capital, topLevelDomain, currencyName, region, subregion, languageNativeName) {
+function showSingleCountry(countryName, flagSVG, nativeName, alpha3Code, population, capital, topLevelDomain, currencyName, region, subregion, languageNativeName, borders) {
 	let card = `
 		<!-- Country flag  -->
 					<div class="col-12 col-sm-12 col-md-6 col-lg-6">
@@ -166,3 +165,35 @@ function showSingleCountry(countryName, flagSVG, nativeName, alpha3Code, populat
 
 	singleCountryCard.innerHTML = card;
 }
+
+
+const borderCountries = (borders, countryName) => {
+
+	for (let i = 0; i < borders.length; i++) {
+
+		const borderCountriesContainer = document.querySelector(".border-countries-container");
+		let borderCountry = `
+				<a href="country.html?country=${borders[i]}" class="text-decoration-none">
+						<div class="border-countries" id="borderCountries">
+							${borders[i]}
+						</div>
+					</a>
+		`;
+
+		borderCountriesContainer.innerHTML += borderCountry;
+	}
+
+};
+
+
+
+const handleErr = (err) => {
+	let resultContainer = document.querySelector(".result");
+	let errorMsg = `
+<div class="alert-danger p-5 m-5 w-75">
+An error occurred while trying to get the result. The error is: <b>${err}</b>
+</div>
+		`;
+
+	resultContainer.innerHTML = errorMsg;
+};
